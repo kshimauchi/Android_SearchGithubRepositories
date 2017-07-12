@@ -1,7 +1,16 @@
 <!-- -->
 <resources>
     <string name="app_name">SearchGitHubRepos</string>
-    <string name="demo"><font color = "GREEN">test</font></string>
-    <string name="hint"></string>
+    <string name="hint"><font color = "GREEN">Enter Search term</font></string>
+
     <string name="search_string">Search</string>
 </resources>
+
+<!--
+<resources>
+    <string name="app_name">GithubRepoSearch</string>
+    <string name="hint">Enter search term</string>
+    <string name="search_string">Search</string>
+</resources>
+
+-->
